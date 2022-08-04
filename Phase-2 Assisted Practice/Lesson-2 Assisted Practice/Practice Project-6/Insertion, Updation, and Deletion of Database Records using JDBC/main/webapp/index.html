@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Update and Delete</title>
+</head>
+<body>
+
+<!-- this one is for fetching a data -->
+<a href="list">List Products</a>
+
+<br>
+<br>
+
+
+<!-- this one is for UPDATE a RECORD -->
+<h1>UPDATE RECORD</h1>
+<form action="update"  method="post">
+Product id: <input type="text" name="id" placeholder="Enter Product id"><br><br>
+Product Name: <input type="text" name="pname" placeholder="Enter Product Name to  be updated"><br><br>
+Product Price: <input type="text" name="pprice" placeholder="Enter Product price to  be updated"><br><br>
+<input type="submit" value="UPDATE Product">
+
+</form>
+
+
+<br>
+<br>
+
+
+<!-- this one is for DELETE a RECORD -->
+<h1>DELETE RECORD</h1>
+<form action="delete"  method="post">
+Product id: <input type="text" name="id" placeholder="Enter Product id"><br><br>
+<input type="submit" value="DELETE Product">
+
+</form>
+
+
+
+</body>
+</html>
