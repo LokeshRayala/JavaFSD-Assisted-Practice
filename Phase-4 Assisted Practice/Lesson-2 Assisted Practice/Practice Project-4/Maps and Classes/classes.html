@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classes Demo</title>
+</head>
+<body>
+    <h1><b>Classes Demo</b></h1>
+    <script>
+
+        class Student{
+
+            constructor(id,name){
+                this.id=id;
+                this.name=name;
+            }
+
+            display(){
+                console.log("Id: "+this.id);
+                console.log("Name: "+this.name);
+            }
+        }
+
+        //object
+
+        let s1 = new Student(1, "Arjun");
+        let s2 = new Student(2, "Ganesh");
+        let s3 = new Student(3, "Ram");
+
+        // Calling a method of a class
+        s1.display();
+        s2.display();
+        s3.display();
+
+    </script>
+</body>
+</html>
