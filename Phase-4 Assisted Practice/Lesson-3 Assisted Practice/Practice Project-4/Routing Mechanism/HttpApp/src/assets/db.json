@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Lokesh Rayala",
+        "username":"Lokesh.Rayala",
+        "email":"lokesh.r@gmail.com",
+        "phone":"9983456782",
+        "website":"myportfolio.com"
+    },
+    {
+        "id":2,
+        "name":"Kishore Adapa",
+        "username":"Kishore.Adapa",
+        "email":"kishore@gmail.com",
+        "phone":"9911298456",
+        "website":"flipkart1.com"
+    },
+    {
+        "id":3,
+        "name":"James Reece",
+        "username":"James.Reece",
+        "email":"jamesr@gmail.com",
+        "phone":"6303045612",
+        "website":"meeshosale.com"
+    },
+    {
+        "id":4,
+        "name":"Jack Shepard",
+        "username":"jack.shepard",
+        "email":"jack.s@gmail.com",
+        "phone":"8096542312",
+        "website":"shoppingcart.com"
+    },
+    {
+        "id":5,
+        "name":"Arjun Tendulkar",
+        "username":"Arjun.Tendulkar",
+        "email":"Arjun.t@gmail.com",
+        "phone":"9988776655",
+        "website":"Groceries.com"
+    },
+    {
+        "id":6,
+        "name":"Jasprit Bumrah",
+        "username":"Jasprit.Bumrah",
+        "email":"bumrah1@gmail.com",
+        "phone":"8413500234",
+        "website":"Wonderla.com"
+    },
+    {
+        "id":7,
+        "name":"Kiran Alluri",
+        "username":"Kiran.Alluri",
+        "email":"Kiran.Alluri@gmail.com",
+        "phone":"7895665870",
+        "website":"lifestyle.com"
+    },
+    {
+        "id":8,
+        "name":"Josh philip",
+        "username":"Josh.philip",
+        "email":"josh.philip@gmail.com",
+        "phone":"9987065678",
+        "website":"spicyspot.com"
+    }
+]
